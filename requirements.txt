@@ -1,0 +1,7 @@
+openai
+langchain 
+tiktoken 
+pypdf 
+unstructured 
+gradio  
+pinecone-client

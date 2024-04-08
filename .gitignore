@@ -1,0 +1,68 @@
+
+# Virtual environments
+ChatPDF/
+env/
+*.env
+# Compiled files
+
+*.class
+*.o
+*.pyc
+
+# Compiled Python bytecode
+__pycache__/
+
+# Virtual environments
+venv/
+env/
+*.env
+
+# Logs and databases
+*.log
+*.sql
+*.sqlite
+
+# OS generated files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# IDE specific files
+.idea/
+.vscode/
+
+# Dependency directories
+node_modules/
+bower_components/
+
+# Compiled binary files
+*.com
+*.class
+*.dll
+*.exe
+*.o
+*.so
+
+# Misc
+*.bak
+*.cache
+*.csv
+*.dat
+*.db
+*.db-shm
+*.db-wal
+*.dump
+*.iml
+*.orig
+*.swp
+*.tmp
+
+# Jupyter Notebook specific files
+.ipynb_checkpoints/
+
+# Environment configuration files
+.envrc
