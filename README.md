@@ -39,9 +39,7 @@ This project implements a question-answering chatbot system that leverages pre-t
 
 The Gradio interface provides a text box for users to enter their questions. Submitting a question triggers the retrieval of relevant contexts, prompt generation, and response using the LLM. 
 
-**Demo:**
 
-[**Link to your deployed Gradio app (if applicable)**]
 
 **Further Development:**
 
@@ -49,8 +47,3 @@ The Gradio interface provides a text box for users to enter their questions. Sub
 * Experiment with various LLM models and fine-tuning techniques.
 * Integrate additional functionalities like document summarization or knowledge base search.
 
-**License:**
-
-[**Specify the license used for your project (e.g., MIT, Apache-2.0)**]
-
-**Feel free to adjust the content and add more details as needed!**
